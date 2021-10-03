@@ -2,7 +2,7 @@
 <h2 align=center>  Hello, Welcome to my Github Profile! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /></h2>
 
 ### About me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="32px"/>
-- 😄 My name is Tuan<br/>
+- 😄 My name is Pham Anh Tuan<br/>
 - 🌱 I am currently a student of Passerelles numériques Viet Nam<br/> 
 - ⚡ Fun fact: I am a lover of history, politics, defense and geography. The hobbies of an old man ^^<br/>
 
@@ -59,9 +59,6 @@
 </code>
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-</code>
-<code>
-  <img height="20" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667">
 </code>
 <br/>
 <br/>
